@@ -1,9 +1,9 @@
-# Complete Java + DSA Bootcamp Syllabus
+﻿# Complete Java + DSA Bootcamp Syllabus
 
-## NOTE: 
+## NOTE
 - All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner.
 - Complete custom implementation of all Data Structures and Algorithms.
-
+  
 ## Lectures
 - [Complete Git & GitHub Course](https://youtu.be/apGV9Kg7ics)
 - [Introduction to Programming](https://youtu.be/wn49bJOYAZM)
@@ -38,74 +38,63 @@
         - [Linear Search](https://youtu.be/_HRA37X8N_Q)
         - [Binary Search](https://youtu.be/f6UU7V3szVw)
         - [Modified Binary Search](https://youtu.be/f6UU7V3szVw?t=2508)
-        - Binary Search on 2D Arrays
-    - Sorting
+        - [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo)
+    - [Sorting](https://www.youtube.com/playlist?list=PL9gnSGHSqcnq-9CXLt9DsInytRMLoyZQ_)
         - [Insertion Sort](https://youtu.be/By_5-RRqVeE)
         - [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
         - [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
-        - Count Sort
-        - Radix Sort
         - [Cyclic Sort](https://youtu.be/JfinxytTYFQ)
-    - Sliding window
-    - Two Pointer
-    - Subarray Questions
-- Pattern questions
+- [Pattern questions](https://youtu.be/lsOOs5J8ycw)
 - [Strings](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [Introduction](https://www.youtube.com/watch?v=zL1DPZ0Ovlo)
     - [How Strings work](https://youtu.be/zL1DPZ0Ovlo?t=216)
     - [Comparison of methods](https://youtu.be/zL1DPZ0Ovlo?t=977)
     - [Operations in Strings](https://youtu.be/zL1DPZ0Ovlo?t=1681)
     - [StringBuilder in java](https://youtu.be/zL1DPZ0Ovlo?t=4199)
-- Maths for DSA
-    - Introduction
-    - Complete Bitwise Operators
-    - Prime numbers
-    - HCF / LCM
-    - Sieve of Eratosthenes
-    - Newton's Square Root Method
-    - Number Theory
-    - Euclidean algorithm
-    - Advanced Concepts for CP (later in the course)
-        - Bitwise + DP
-        - Extended Euclidean algorithm
-        - Modulo Properties
-        - Modulo Multiplicative Inverse
-        - Linear Diophantine Equations
-        - Fermat’s Theorem
-        - Wilson's Theorem
-        - Lucas Theorem
-        - Chinese Remainder Theorem
-- Recursion
-    - Introduction
-    - Why recursion?
-    - Flow of recursive programs - stacks
-    - Convert recursion to iteration
-    - Tree building of function calls
-    - Tail recursion
-    - Sorting:
-        - Merge Sort
-        - Quick Sort
-    - Backtracking
-        - Sudoku Solver
-        - N-Queens
-        - N-Knights
-        - Maze problems
-    - Recursion String Problems
-    - Recursion Array Problems
-    - Recursion Pattern Problems
-    - Subset Questions
-- Space and Time Complexity Analysis
-    - Introduction
-    - Comparisons of various cases
-    - Solving Linear Recurrence Relations
-    - Solving Divide and Conquer Recurrence Relations
-    - Big-O, Big-Omega, Big-Theta Notations
-    - Get equation of any relation easily - best and easiest approach
-    - Complexity discussion of all the problems we do
-    - Space Complexity 
-    - Memory Allocation of various languages
-    - NP-Completeness and Hardness
-- Object Oriented Programming
+- [Maths for DSA](https://youtu.be/fzip9Aml6og)
+    - [Introduction](https://youtu.be/fzip9Aml6og?t=20)
+    - [Complete Bitwise Operators](https://youtu.be/fzip9Aml6og?t=95)
+    - [Range of numbers](https://youtu.be/fzip9Aml6og?t=4169)
+    - [Prime numbers](https://youtu.be/lmSpZ0bjCyQ?t=57)
+    - [Sieve of Eratosthenes](https://youtu.be/lmSpZ0bjCyQ?t=850)
+    - [Newton's Square Root Method](https://youtu.be/lmSpZ0bjCyQ?t=1989)
+    - [Factors](https://youtu.be/lmSpZ0bjCyQ?t=3004)
+    - [Modulo properties](https://youtu.be/lmSpZ0bjCyQ?t=3980)
+    - [Number Theory](https://youtu.be/lmSpZ0bjCyQ?t=4405)
+    - [HCF / LCM](https://youtu.be/lmSpZ0bjCyQ?t=5110)
+    - [Euclidean algorithm](https://youtu.be/lmSpZ0bjCyQ?t=5520)
+    
+- [Recursion](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
+    - [Introduction](https://youtu.be/M2uO2nMT0Bk)
+    - [Flow of recursive programs - stacks](https://youtu.be/M2uO2nMT0Bk?t=2124)
+    - [Why recursion?](https://youtu.be/M2uO2nMT0Bk?t=2708)
+    - [Tree building of function calls](https://youtu.be/M2uO2nMT0Bk?t=3033)
+    - [Tail recursion](https://youtu.be/M2uO2nMT0Bk?t=4308)
+    - [Sorting](https://www.youtube.com/playlist?list=PL9gnSGHSqcnq-9CXLt9DsInytRMLoyZQ_)
+        - [Merge Sort](https://youtu.be/iKGAgWdgoRk)
+        - [Quick Sort](https://www.youtube.com/watch?v=Z8svOqamag8&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=27)
+    - [Backtracking](https://youtu.be/zg5v2rlV1tM)
+        - [N-Queens](https://youtu.be/nC1rbW2YSz0)
+        - [N-Knights](https://youtu.be/nC1rbW2YSz0?t=2342)
+        - [Sudoku Solver](https://youtu.be/nC1rbW2YSz0?t=3190)
+        - [Maze problems](https://www.youtube.com/watch?v=zg5v2rlV1tM)
+    - [Recursion String Problems](https://youtu.be/gdifkIwCJyg)
+    - [Recursion Google, Amazon Questions](https://youtu.be/9ByWqPzfXDU)
+    - [Recursion Array Problems](https://youtu.be/sTdiMLom00U)
+    - [Recursion Pattern Problems](https://youtu.be/ymgnIIclCF0)
+    - [Subset Questions](https://youtu.be/9ByWqPzfXDU)
+- [Space and Time Complexity Analysis](https://youtu.be/mV3wrLBbuuE)
+    - [Introduction](https://youtu.be/mV3wrLBbuuE)
+    - [Comparisons of various cases](https://youtu.be/mV3wrLBbuuE?t=1039)
+    - [Solving Linear Recurrence Relations](https://youtu.be/mV3wrLBbuuE?t=6252)
+    - [Solving Divide and Conquer Recurrence Relations](https://youtu.be/mV3wrLBbuuE?t=4609)
+    - [Big-O, Big-Omega, Big-Theta Notations](https://youtu.be/mV3wrLBbuuE?t=2271)
+    - [Little Notations](https://youtu.be/mV3wrLBbuuE?t=2960)
+    - [Get equation of any relation easily - best and easiest approach](https://youtu.be/mV3wrLBbuuE?t=8189)
+    - [Complexity discussion of all the problems we do](https://youtu.be/mV3wrLBbuuE?t=3866)
+    - [Space Complexity](https://youtu.be/mV3wrLBbuuE?t=3330)
+    - [NP-Completeness Introduction](https://youtu.be/mV3wrLBbuuE?t=8695)
+- [Object Oriented Programming](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk)
     - Introduction
     - Classes & its instances
     - this keyword in Java
@@ -116,20 +105,25 @@
         - Encapsulation
     - Overloading & Overriding
     - Static & Non-Static
+    - Packages
     - Access Control
     - Interfaces
     - Abstract Classes
     - Singleton Class
     - final, finalize, finally
+    - Object Cloning
     - Object Class
     - Generics
     - Exception Handling
     - Collections Framework
     - Lambda Expression
     - Enums
-    - Fast IO
-	- File handling
-- Greedy Algorithms
+- Linked List
+    - Introduction
+    - Fast and slow pointer
+    - Cycle Detection
+    - Single and Doubly LinkedList
+    - Reversal of LinkedList
 - Stacks & Queues
     - Introduction
     - Interview problems
@@ -137,12 +131,6 @@
     - Pop efficient
     - Queue using Stack and Vice versa
     - Circular Queue
-- Linked List
-    - Introduction
-    - Fast and slow pointer
-    - Cycle Detection
-    - Single and Doubly LinkedList
-    - Reversal of LinkedList
 - Dynamic Programming
     - Introduction
     - Recursion + Recursion DP + Iteration + Iteration Space Optimized
@@ -178,9 +166,14 @@
     - Limitations and how to solve
     - Map using LinkedList
     - Map using Hash
+    - Count Sort
+    - Radix Sort
     - Chaining
     - Probing
     - Huffman-Encoder
+    - Top K elements problems
+- Subarray Questions: Sliding window, Two Pointer, Kadane's Algorithm
+- Greedy Algorithms
 - Tries
 - Graphs
     - Introduction
@@ -194,3 +187,22 @@
     - Topological Sort
     - Bellman ford
     - A* pathfinding Algorithm
+
+### Advanced concepts apart from interviews 
+- Fast IO
+- File handling
+- Bitwise + DP
+- Extended Euclidean algorithm
+- Modulo Multiplicative Inverse
+- Linear Diophantine Equations
+- Matrix Exponentiation
+- Mathematical Expectation
+- Catalan Numbers
+- Fermat’s Theorem
+- Wilson's Theorem
+- Euler's Theorem
+- Lucas Theorem
+- Chinese Remainder Theorem
+- Euler Totient
+- NP-Completeness
+- Multithreading
