@@ -1,10 +1,11 @@
 # [Video Link](https://youtu.be/zL1DPZ0Ovlo)
 
-# Problems
+# Problems -  i think i will take about 3 weeks to complete all of these problems if i went on to do those.....okay then lets do them simpel as that. 
 
-## Easy
+## Easy (24 easy problems)
 
-- [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/)
+- [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/) -- solved
+
 - [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
 - [Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)
@@ -29,7 +30,7 @@
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
-## Medium
+## Medium (18 hard problems)
 
 - [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
 - [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)
@@ -51,7 +52,7 @@
 - [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
 - [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
 
-## Hard
+## Hard (8 hard problems)
 
 - [Valid Number](https://leetcode.com/problems/valid-number/)
 - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)

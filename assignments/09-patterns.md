@@ -9,6 +9,7 @@ Print these patterns using loops:
     *****
     *****
     *****
+done
 
 
 2.  *
@@ -16,21 +17,21 @@ Print these patterns using loops:
     ***
     ****
     *****
-
+done
 
 3.  *****
     ****
     ***
     **
     *
-
+done
 
 4.  1
     1 2
     1 2 3
     1 2 3 4
     1 2 3 4 5
-
+done
 
 5.  *
     **
@@ -48,6 +49,7 @@ Print these patterns using loops:
        ***
       ****
      *****
+done
 
 
 7.   *****
@@ -55,14 +57,14 @@ Print these patterns using loops:
        ***
         **
          *
-
+done
 
 8.      *
        ***
       *****
      *******
     *********
-
+done
 
 9.  *********
      *******
